@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cart/Cart.iml" filepath="$PROJECT_DIR$/Cart/Cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inventory/Inventory.iml" filepath="$PROJECT_DIR$/Inventory/Inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orders/Orders.iml" filepath="$PROJECT_DIR$/Orders/Orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Products/Products.iml" filepath="$PROJECT_DIR$/Products/Products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Profiles/Profiles.iml" filepath="$PROJECT_DIR$/Profiles/Profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Promotions/Promotions.iml" filepath="$PROJECT_DIR$/Promotions/Promotions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Transactions/Transactions.iml" filepath="$PROJECT_DIR$/Transactions/Transactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Accounts/accounts.iml" filepath="$PROJECT_DIR$/Accounts/accounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/e-commerce.iml" filepath="$PROJECT_DIR$/.idea/e-commerce.iml" />
+    </modules>
+  </component>
+</project>
