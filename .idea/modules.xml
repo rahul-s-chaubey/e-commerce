@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/Profiles/Profiles.iml" filepath="$PROJECT_DIR$/Profiles/Profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/Promotions/Promotions.iml" filepath="$PROJECT_DIR$/Promotions/Promotions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Transactions/Transactions.iml" filepath="$PROJECT_DIR$/Transactions/Transactions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Accounts/accounts.iml" filepath="$PROJECT_DIR$/Accounts/accounts.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/e-commerce.iml" filepath="$PROJECT_DIR$/.idea/e-commerce.iml" />
     </modules>
   </component>

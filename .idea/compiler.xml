@@ -11,7 +11,6 @@
         <module name="Products" />
         <module name="Promotions" />
         <module name="Profiles" />
-        <module name="accounts" />
         <module name="Inventory" />
         <module name="Cart" />
       </profile>

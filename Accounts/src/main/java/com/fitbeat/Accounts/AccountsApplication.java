@@ -1,4 +1,4 @@
-package com.udemy.accounts;
+package com.fitbeat.Accounts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

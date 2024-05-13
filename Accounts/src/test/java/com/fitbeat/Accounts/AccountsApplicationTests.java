@@ -1,4 +1,4 @@
-package com.udemy.accounts;
+package com.fitbeat.Accounts;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
